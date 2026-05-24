@@ -1,1 +1,1 @@
-a basic structure to a simple game
+the art of arc
