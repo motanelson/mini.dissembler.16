@@ -1,1 +1,1 @@
-vars 
+must install pack "radare2"
